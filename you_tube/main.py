@@ -4,7 +4,7 @@ import time
 
 from ROBOT import Graphics, Robot, Ultrasonic
 
-MAP_DIMENSIONS = (600,1200)
+MAP_DIMENSIONS = (500,500)
 
 gfx = Graphics(MAP_DIMENSIONS,"robot.png","maze.png")
 
